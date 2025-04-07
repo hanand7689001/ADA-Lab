@@ -35,6 +35,7 @@ void main()
         printf("\n");
     }
 }
+
 OUTPUT:
 Enter n of vertices :4
 
